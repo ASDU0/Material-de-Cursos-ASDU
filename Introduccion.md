@@ -65,5 +65,5 @@ Oportunidades
 - 🌐 [Sitio Web]([https://elbunker.netlifg.app](https://asdu.onrender.com/asdu))
 - 💻 [GitHub](https://github.com/asdu0)
 
-*Nayeli Constantina Labra Huaita. *
+*Nayeli Constantina Labra Huaita. *___
 *Desarrollado por ASDU - Actualizando el futuro de la educación y el desarrollo de software.*
