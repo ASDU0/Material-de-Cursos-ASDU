@@ -30,7 +30,6 @@ Bienvenidos al repositorio de materiales de estudio. Este espacio está diseñad
 - 🌐 [Sitio Web]([https://elbunker.netlifg.app](https://asdu.onrender.com/asdu))
 - 💻 [GitHub](https://github.com/asdu0)
 ---
----
 *Desarrollado por ASDU - Actualizando el futuro de la educación y el desarrollo de software.*
 ___
 **Escrito por:** *Jhon Jesus Quispe Machaca.*
