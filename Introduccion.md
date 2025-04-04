@@ -61,8 +61,9 @@ Oportunidades
 
 ### **Contacto:**
 
-📞 910-057-598
+- 📞 910-057-598
+- 🌐 [Sitio Web]([https://elbunker.netlifg.app](https://asdu.onrender.com/asdu))
+- 💻 [GitHub](https://github.com/asdu0)
 
-🌐 elbunker.netlifg.app
-
-💻 github.com/asdu0
+*Nayeli Constantina Labra Huaita. *
+*Desarrollado por ASDU - Actualizando el futuro de la educación y el desarrollo de software.*
