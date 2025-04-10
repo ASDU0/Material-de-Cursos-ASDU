@@ -42,7 +42,7 @@ Bienvenidos al repositorio de materiales de estudio. 🌟 Este espacio está dis
 ___
 **Escrito por:** *Jhon Jesus Quispe Machaca.* ✍️
 ___
-![Coding](https://cdn.dribbble.com/userupload/42421979/file/original-2b972d38662cf2d12fede3d824f906bd.gif)
+<img src="https://cdn.dribbble.com/userupload/42421979/file/original-2b972d38662cf2d12fede3d824f906bd.gif" width="700" alt="Coding">
 
 
 
