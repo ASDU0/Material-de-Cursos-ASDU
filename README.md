@@ -31,7 +31,7 @@ Bienvenidos al repositorio de materiales de estudio. 🌟 Este espacio está dis
 2. 📄 Cada archivo **.md** contiene información detallada sobre un tema específico
 3. 🔗 Utiliza los recursos complementarios y enlaces proporcionados
 ## Recursos Adicionales 🔥
-- 🌐 [Sitio Web]([https://elbunker.netlifg.app](https://asdu.onrender.com/asdu))
+- 🌐 [Sitio Web](https://asdu.onrender.com/asdu)
 - 💻 [GitHub](https://github.com/asdu0)
 
 ---
