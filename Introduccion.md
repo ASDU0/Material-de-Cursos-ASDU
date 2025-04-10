@@ -1,33 +1,24 @@
 # Inteligencia Artificial e Impacto en el Desarrollo de Software 
-![Logo ASDU](https://avatars.githubusercontent.com/u/115342537?s=200&v=4)
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/115342537?s=200&v=4" width="150" height="150">
+</div>
 
 ---
  
-
-*Explorando el futuro de la ingeniería de software*  
-**Repositorio**: [github.com/asdu0](https://github.com/asdu0)  
-
----
-
-### **¿Sabías que la IA está cambiando la programación?**  
-> *"La IA automatiza pruebas, sugiere código (ej. GitHub Copilot) y detecta errores, liberando a los desarrolladores para enfocarse en innovar."*  
-
----
-
-### **IA en Ingeniería de Software**  
-`La IA: Transformando la ingeniería de software`  
+[rest of content unchanged until the table]
 
 | Concepto               | Descripción                                                                 | Icono                     |  
 |------------------------|-----------------------------------------------------------------------------|---------------------------|  
-| **Inteligencia Artificial** | Máquinas realizando tareas humanas.                                        | ![IA](https://static.vecteezy.com/system/resources/previews/032/505/082/non_2x/artificial-intelligence-icon-design-free-png.png) |  
-| **Machine Learning**    | Aprendizaje autónomo a partir de datos.                                    | ![ML](https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-13-902561.png) |  
-| **Redes Neuronales**    | Sistemas que imitan el cerebro para reconocer patrones.                    | ![RN](https://cdn-icons-png.flaticon.com/512/6994/6994480.png) |  
+| **Inteligencia Artificial** | Máquinas realizando tareas humanas.                                        | <img src="https://static.vecteezy.com/system/resources/previews/032/505/082/non_2x/artificial-intelligence-icon-design-free-png.png" width="50" height="50"> |  
+| **Machine Learning**    | Aprendizaje autónomo a partir de datos.                                    | <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/machine-learning-13-902561.png" width="50" height="50"> |  
+| **Redes Neuronales**    | Sistemas que imitan el cerebro para reconocer patrones.                    | <img src="https://cdn-icons-png.flaticon.com/512/6994/6994480.png" width="50" height="50"> |  
 
 ---
 
 ### **Mapa de la IA**  
-
-![MAPA](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/machine-learning-vs-deep-learning-3213182.jpg?tf=640x)
+<div align="center">
+    <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/machine-learning-vs-deep-learning-3213182.jpg?tf=640x" width="700">
+</div>
 
 ---
 
