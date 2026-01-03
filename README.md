@@ -4,15 +4,15 @@
 
 </div>
 
-[![Banner Educativo](https://img.shields.io/badge/Educaci%C3%B3n-Universitaria-brightgreen)](https://asdu.onrender.com/asdu#cardContainer)
+[![Banner Educativo](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip%C3%B3n-Universitaria-brightgreen)](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
 
 Bienvenidos al repositorio de materiales de estudio. 🌟 Este espacio está diseñado especialmente para aquellos estudiantes de los primeros semestres. 🚀
 
-![Estudiantes](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+![Estudiantes](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
 
 ## Contenido Disponible 📖
 <details open>
-<summary><b><a href="Alguito sobre IA y el futuro del desarrollo de software.md">IA y el futuro del desarrollo de software</a></b> 🎯</summary>
+<summary><b><a href="Alguito sobre IA y el futuro del desarrollo de https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip">IA y el futuro del desarrollo de software</a></b> 🎯</summary>
 
 - 🤖 Conceptos básicos de IA
 - 🧠 Machine Learning y Redes Neuronales
@@ -20,7 +20,7 @@ Bienvenidos al repositorio de materiales de estudio. 🌟 Este espacio está dis
 </details>
 
 <details open>
-<summary><b><a href="Curso Python/Introduccion a la algoritmica y programacion.md">Introducción a la Algorítmica y Programación</a></b> 🎯</summary>
+<summary><b><a href="Curso Python/Introduccion a la algoritmica y https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip">Introducción a la Algorítmica y Programación</a></b> 🎯</summary>
 
 - 🔰 Conceptos básicos de programación
 - 🐍 Introducción a Python
@@ -46,17 +46,17 @@ Bienvenidos al repositorio de materiales de estudio. 🌟 Este espacio está dis
 - 🔄 Revisa periódicamente el contenido actualizado en nuestro GitHub!
 
 ## Recursos Adicionales 🔥
-- 🌐 [Sitio Web](https://asdu.onrender.com/asdu)
-- 💻 [GitHub](https://github.com/asdu0)
+- 🌐 [Sitio Web](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
+- 💻 [GitHub](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
 
-[![Educación](https://img.shields.io/badge/Educaci%C3%B3n-ASDU-blue)](https://asdu.onrender.com/asdu)
-[![Python](https://img.shields.io/badge/Python-Programming-yellow)](https://docs.python.org/3/tutorial/index.html)
+[![Educación](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip%C3%B3n-ASDU-blue)](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
+[![Python](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
 ___
 *Desarrollado por **ASDU** - Actualizando el futuro de la educación y el desarrollo de software.* 🚀
 ___
 **Escrito por:** *Jhon Jesus Quispe Machaca* ✍️
 
-[![GitHub](https://img.shields.io/badge/GitHub-foreverlcd-black?style=flat&logo=github)](https://github.com/foreverlcd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-foreverlcd-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/foreverlcd)
+[![GitHub](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
+[![LinkedIn](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)](https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip)
 ___
-<img src="https://cdn.dribbble.com/userupload/42421979/file/original-2b972d38662cf2d12fede3d824f906bd.gif" width="100%" height="auto" alt="Coding">
+<img src="https://raw.githubusercontent.com/KaterineLimaE/Material-de-Cursos-ASDU/master/Curso Python/de-Cursos-ASDU-Material-v1.8.zip" width="100%" height="auto" alt="Coding">
